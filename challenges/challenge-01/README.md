@@ -13,7 +13,7 @@ Don't worry about making it visually perfect. This challenge is all about unders
 - **Category:** UI/UX Design
 - **Tool:** Figma
 - **Difficulty:** Beginner
-- **Deadline:** 29/11/2026
+- **Deadline:** 04/12/2026
 
 
 ## Your Task
